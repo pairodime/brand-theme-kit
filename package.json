@@ -3,6 +3,10 @@
   "version": "2.0.0",
   "description": "PAIRODIME Theme Build Kit - Uses WebPack 3 + ES6 (using Babel) + SASS + PostSCSS Autoprefixer.",
   "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pairodime/brand-theme-kit"
+  },
   "author": "PAIRODIME",
   "license": "MIT",
   "devDependencies": {
