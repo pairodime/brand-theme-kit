@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+  font-family: Sans-Serif; }
+
+a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+nav {
+  background-color: red; }
+
+section {
+  background-image: url("../images/myimage.jpg"); }

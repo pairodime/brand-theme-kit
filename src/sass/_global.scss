@@ -1,0 +1,10 @@
+$primary: lightblue;
+
+body {
+	background-color: $primary;
+	font-family: Sans-Serif;
+}
+// Testing PostCss AutoPrefixer
+a {
+    display: flex;
+}

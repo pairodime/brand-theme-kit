@@ -1,0 +1,24 @@
+name = Brand Name
+description = Brand Name Theme developed by PAIRODIME. <a href="http://www.pairodime.com">pairodime.com</a>
+core = 7.x
+
+regions[content] = Content
+
+stylesheets[all][] = bower_components/fontawesome/css/font-awesome.min.css
+stylesheets[all][] = bower_components/swiper/dist/css/swiper.css
+stylesheets[all][] = css/style.css
+
+scripts[] = bower_components/jquery/dist/jquery.min.js
+scripts[] = bower_components/modernizr/modernizr.custom.js
+scripts[] = bower_components/axios/dist/axios.min.js
+scripts[] = bower_components/fastclick/lib/fastclick.js
+scripts[] = bower_components/swiper/dist/js/swiper.min.js
+scripts[] = js/greensock/TweenMax.min.js
+scripts[] = js/greensock/TimelineMax.min.js
+scripts[] = js/greensock/plugins/ScrollToPlugin.min.js
+scripts[] = js/greensock/plugins/MorphSVGPlugin.min.js
+scripts[] = js/greensock/plugins/DrawSVGPlugin.min.js
+scripts[] = js/scrollmagic/ScrollMagic.min.js
+scripts[] = js/scrollmagic/plugins/animation.gsap.min.js
+scripts[] = js/scrollmagic/plugins/debug.addIndicators.min.js
+scripts[] = js/script.js
